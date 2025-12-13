@@ -512,7 +512,7 @@ th:last-child {
 /* ------- Account Page ------- */
 .account-page {
     padding: 50px 0;
-    height: 100vh;
+    /* height: 100vh; */
     background: radial-gradient(#fff, #ffd6d6);
 }
 
